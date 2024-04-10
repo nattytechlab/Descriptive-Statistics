@@ -1,2 +1,2 @@
 # Descriptive-Statistics
-Descriptive Statistics Python Assessment 218101205 N.Nkuna
+How to do descriptive statistics on a csv file using Python and its libraries on Jupyter Notebook.
